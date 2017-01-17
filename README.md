@@ -1,5 +1,7 @@
 # SuperSFC - File integrity verifier
 
+[![Build Status](https://travis-ci.org/alistairmcmillan/supersfv.svg?branch=master)](https://travis-ci.org/alistairmcmillan/supersfv)
+
 ## Original description from MacUpdate
 
 SuperSFV is a simple file verification program for Mac OS X. It has an intuitive drag-and-drop interface, somewhat influenced by Transmission's, and is released under the GNU GPL v2. Although I admit the source may be a bit sloppy, it is included in the download.
